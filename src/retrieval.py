@@ -3,7 +3,7 @@ import fitz
 import pdfplumber
 import pandas as pd
 
-# define project root directory
+# define the project root directory
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # path to the PDF inside 'data' folder
