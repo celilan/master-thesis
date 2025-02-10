@@ -1,5 +1,5 @@
-,title,authors,year_published,number,volume,journal,type,content,doi
-0,Introduction: Understanding Roots and Betweenness Defining Safety of Journalists as a Sub-field of Research. Reading between the Lines,"Roy Krøvel, Fabrizio Palumbo and Kristin Skare Orgeret",2023,7,24,Journalism Studies,article,"Journalism Studies
+title,authors,year_published,number,volume,journal,type,content,doi,file
+Introduction: Understanding Roots and Betweenness Defining Safety of Journalists as a Sub-field of Research. Reading between the Lines,"Roy Krøvel, Fabrizio Palumbo and Kristin Skare Orgeret",2023,7,24,Journalism Studies,article,"Journalism Studies
 ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/rjos20
 Introduction: Underﬆanding Roots and Betweenness
 Deﬁning Safety of Journaliﬆs as a Sub-ﬁeld of Research.
@@ -651,8 +651,8 @@ Department of Journalism and Media Studies, OsloMet – Oslo Metropolitan Univer
 Oslo, Norway
 JOURNALISM STUDIES
 837
-",10.1080/1461670X.2023.2206494
-1,Optimized protocol for conditioned place avoidance learning in juvenile zebrafish,Fabrizio Palumbo and Bram Serneels and Emre Yaksi,2021,2,2,STAR Protocols,article,"Protocol
+",10.1080/1461670X.2023.2206494,doc5
+Optimized protocol for conditioned place avoidance learning in juvenile zebrafish,Fabrizio Palumbo and Bram Serneels and Emre Yaksi,2021,2,2,STAR Protocols,article,"Protocol
 Optimized protocol for conditioned place
 avoidance learning in juvenile zebraﬁsh
 Conditioned place avoidance assays are broadly used in mammals to study different cognitive
@@ -1631,8 +1631,8 @@ OPEN ACCESS
 STAR Protocols 2, 100465, June 18, 2021
 17
 Protocol
-",https://doi.org/10.1016/j.xpro.2021.100465
-2,COST-WINNERS: COST reduction WIth Neural NEtworks-based augmented Random Search for simultaneous thermal and electrical energy storage control,Sven Myrdahl Opalic and Fabrizio Palumbo and Morten Goodwin and Lei Jiao and Henrik Kofoed Nielsen and Mohan Lal Kolhe,2023,,72,Journal of Energy Storage,article,"Journal of Energy Storage 72 (2023) 108202
+",https://doi.org/10.1016/j.xpro.2021.100465,doc4
+COST-WINNERS: COST reduction WIth Neural NEtworks-based augmented Random Search for simultaneous thermal and electrical energy storage control,Sven Myrdahl Opalic and Fabrizio Palumbo and Morten Goodwin and Lei Jiao and Henrik Kofoed Nielsen and Mohan Lal Kolhe,2023,,72,Journal of Energy Storage,article,"Journal of Energy Storage 72 (2023) 108202
 Available online 20 July 2023
 2352-152X/© 2023 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-
 nc-nd/4.0/).
@@ -2687,8 +2687,8 @@ mathematical programs in Python, Math. Program. Comput. 3 (3) (2011)
 [44] M.L. Bynum, G.A. Hackebeil, W.E. Hart, C.D. Laird, B.L. Nicholson, J.D. Siirola,
 J.-P. Watson, D.L. Woodruff, Pyomo–Optimization Modeling in Python, Vol. 67,
 third ed., Springer Science & Business Media, 2021.
-",https://doi.org/10.1016/j.est.2023.108202
-3,Genetic Algorithms For Tightening Security,"Palumbo, Fabrizio and Buji, Adam and Yazidi, Anis and Haugerud, Hårek",2022,,,,inproceedings,"Genetic Algorithms For Tightening Security
+",https://doi.org/10.1016/j.est.2023.108202,doc6
+Genetic Algorithms For Tightening Security,"Palumbo, Fabrizio and Buji, Adam and Yazidi, Anis and Haugerud, Hårek",2022,,,,inproceedings,"Genetic Algorithms For Tightening Security
 1stFabrizio Palumbo
 Artiﬁcial Intelligence Lab (AI Lab),
 Institutt for informasjonsteknologi
@@ -3405,8 +3405,8 @@ Science & Business Media, 2007.
 2022 14th IFIP Wireless and Mobile Networking Conference (WMNC)
 69
 Authorized licensed use limited to: OsloMet - Oslo Metropolitan University. Downloaded on February 05,2025 at 10:33:35 UTC from IEEE Xplore.  Restrictions apply. 
-",10.23919/WMNC56391.2022.9954297
-4,How (not to) Run an AI Project in Investigative Journalism,"M. Fridman, R. Krøvel and F. Palumbo",2023,0,0,Journalism Practice,article,"Journalism Practice
+",10.23919/WMNC56391.2022.9954297,doc7
+How (not to) Run an AI Project in Investigative Journalism,"M. Fridman, R. Krøvel and F. Palumbo",2023,0,0,Journalism Practice,article,"Journalism Practice
 ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/rjop20
 How (not to) Run an AI Project in Inveﬆigative
 Journalism
@@ -4283,8 +4283,8 @@ Zhao, J., T. Wang, M. Yatskar, V. Ordonez, and K.-W. Chang. 2018. Gender Bias in
 Resolution: Evaluation and Debiasing Methods. https://doi.org/10.48550/ARXIV.1804.06876.
 18
 M. FRIDMAN ET AL.
-",10.1080/17512786.2023.2253797
-5,Information processing in the vertebrate habenula,Stephanie Fore and Fabrizio Palumbo and Robbrecht Pelgrims and Emre Yaksi,2018,,78,Seminars in Cell & Developmental Biology,article,"Seminars
+",10.1080/17512786.2023.2253797,doc3
+Information processing in the vertebrate habenula,Stephanie Fore and Fabrizio Palumbo and Robbrecht Pelgrims and Emre Yaksi,2018,,78,Seminars in Cell & Developmental Biology,article,"Seminars
  in
  Cell
  &
@@ -14786,8 +14786,8 @@ zebraﬁsh,
  (4)
  (2012)
  170–177.
-",https://doi.org/10.1016/j.semcdb.2017.08.019
-6,Functional properties of habenular neurons are determined by developmental stage and sequential neurogenesis,Stephanie Fore  and Francisca Acuña-Hinrichsen  and Kadir Aytac Mutlu  and Ewelina Magdalena Bartoszek  and Bram Serneels  and Nicholas Guy Faturos  and Khac Thanh Phong Chau  and Mehmet Ilyas Cosacak  and Carmen Diaz Verdugo  and Fabrizio Palumbo  and Christa Ringers  and Nathalie Jurisch-Yaksi  and Caghan Kizil  and Emre Yaksi ,2020,36,6,Science Advances,article,"Fore et al., Sci. Adv. 2020; 6 : eaaz3173     4 September 2020
+",https://doi.org/10.1016/j.semcdb.2017.08.019,doc2
+Functional properties of habenular neurons are determined by developmental stage and sequential neurogenesis,Stephanie Fore  and Francisca Acuña-Hinrichsen  and Kadir Aytac Mutlu  and Ewelina Magdalena Bartoszek  and Bram Serneels  and Nicholas Guy Faturos  and Khac Thanh Phong Chau  and Mehmet Ilyas Cosacak  and Carmen Diaz Verdugo  and Fabrizio Palumbo  and Christa Ringers  and Nathalie Jurisch-Yaksi  and Caghan Kizil  and Emre Yaksi ,2020,36,6,Science Advances,article,"Fore et al., Sci. Adv. 2020; 6 : eaaz3173     4 September 2020
 SCIE N C E A D V A NCES | RESEA R CH  A RT ICL E
 1 of 17
 D E V E LOPM ENTAL NE U ROS C IE NC E
@@ -16199,4 +16199,4 @@ K. T. P. Chau, M. I. Cosacak, C. D. Verdugo, F. Palumbo, C. Ringers,
 E. Yaksi, Functional properties of habenular neurons are determined by developmental stage 
 and sequential neurogenesis. Sci. Adv. 6, eaaz3173 (2020).
 Downloaded from https://www.science.org at Oslo & Akershus University Col. of Applied Science on February 04, 2025
-",10.1126/sciadv.aaz3173
+",10.1126/sciadv.aaz3173,doc1
