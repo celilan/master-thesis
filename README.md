@@ -15,16 +15,16 @@ This project explores how large language models (LLMs) can generate interpretabl
 ## Folder Structure
 
 master-thesis/
-├── data/ # Raw data (ex.: PDFs)
-├── notebooks/ # Jupyter notebooks for EDA, cleaning, extraction
-│ ├── data_cleaning.ipynb
-│ ├── eda.ipynb
-│ ├── pdf_extraction.ipynb
-│ └── system_architecture_1.ipynb
+├── data/                     # Raw data (e.g., PDFs)
+├── notebooks/                # Jupyter notebooks for EDA, cleaning, extraction
+│   ├── data_cleaning.ipynb
+│   ├── eda.ipynb
+│   ├── pdf_extraction.ipynb
+│   └── system_architecture_1.ipynb
 ├── src/
-│ └── retrieval.py # Python script for document retrieval
-├── requirements.txt # Python dependencies
-└── README.md 
+│   └── retrieval.py          # Script for document retrieval
+├── requirements.txt          # Python dependencies
+└── README.md                 # Project documentation
 
 ## How to Run
 
