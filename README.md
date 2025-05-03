@@ -30,7 +30,6 @@ master-thesis/
 ```
 </details>
 
-
 ## How to Run
 
 1. Clone the repository and navigate to the folder:
