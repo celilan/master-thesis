@@ -76,17 +76,6 @@ tokenizer = AutoTokenizer.from_pretrained("/path/to/local/model")
 model = AutoModelForCausalLM.from_pretrained("/path/to/local/model")
 ```
 
-## Key Features
-
-- Extracts text from research PDFs
-- Cleans noisy metadata and abstracts
-- Uses vector-based retrieval for Retrieval-Augmented Generation (RAG)
-- Evaluates summaries using cosine similarity and sentence-level comparison
-- Benchmarks hallucination detection using the HaluEval dataset
-- Detects hallucinations at the sentence level
-- Visualizes patterns and trends in hallucinated summaries
-- Refines summaries via LLM feedback and parameter grid search
-
 
 
 
