@@ -15,8 +15,6 @@ This project explores how large language models (LLMs) can generate interpretabl
 ## Folder Structure
 
 <details>
-<summary>Click to expand</summary>
-
 ```text
 master-thesis/
 ├── data/                     # Raw data (e.g., PDFs)
@@ -29,6 +27,7 @@ master-thesis/
 │   └── retrieval.py          # Script for document retrieval
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
+```
 </details>
 
 
