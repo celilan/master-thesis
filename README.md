@@ -14,6 +14,10 @@ This project explores how large language models (LLMs) can generate interpretabl
 
 ## Folder Structure
 
+<details>
+<summary>Click to expand</summary>
+
+```text
 master-thesis/
 ├── data/                     # Raw data (e.g., PDFs)
 ├── notebooks/                # Jupyter notebooks for EDA, cleaning, extraction
@@ -25,6 +29,8 @@ master-thesis/
 │   └── retrieval.py          # Script for document retrieval
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
+</details>
+
 
 ## How to Run
 
