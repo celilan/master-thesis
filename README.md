@@ -36,8 +36,9 @@ If you are running the code outside of the notebook, clone it manually:
 
 ```bash
 git clone https://github.com/RUCAIBox/HaluEval.git
+```
 
-This step is also included in a code cell in notebooks/system_architecture_1.ipynb, so it's handled automatically when running the notebook.
+This command is also included in a code cell in notebooks/system_architecture_1.ipynb, so it's handled automatically when running the notebook.
 
 ## How to Run
 
