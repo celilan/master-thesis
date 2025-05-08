@@ -28,6 +28,17 @@ master-thesis/
 └── README.md                 # Project documentation
 ```
 
+## External Dependencies
+
+This project uses the HaluEval dataset for benchmarking hallucination detection. 
+
+If you are running the code outside of the notebook, clone it manually:
+
+```bash
+git clone https://github.com/RUCAIBox/HaluEval.git
+
+This step is also included in a code cell in notebooks/system_architecture_1.ipynb, so it's handled automatically when running the notebook.
+
 ## How to Run
 
 1. Clone the repository and navigate to the folder:
