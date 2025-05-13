@@ -21,7 +21,7 @@ master-thesis/
 │   ├── data_cleaning.ipynb
 │   ├── eda.ipynb
 │   ├── pdf_extraction.ipynb
-│   └── system_architecture_1.ipynb
+│   └── system_architecture_final.ipynb
 ├── src/
 │   └── retrieval.py          # Script for document retrieval
 ├── requirements.txt          # Python dependencies
@@ -64,7 +64,7 @@ This command is also included in a code cell in notebooks/system_architecture_1.
     - Start with notebooks/pdf_extraction.ipynb to extract data from PDFs and BibTeX files.
     - Run notebooks/data_cleaning.ipynb to clean the dataset and prepare it for modeling.
     - Use notebooks/eda.ipynb to explore word frequencies, co-authorship, and document lengths.
-    - Run notebooks/system_architecture_1.ipynb for the full retrieval, summary generation, and hallucination detection pipeline.
+    - Run notebooks/system_architecture_final.ipynb for the full retrieval, summary generation, and hallucination detection pipeline.
 
 ## Accessing Language Models
 
