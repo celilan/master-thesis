@@ -1,6 +1,6 @@
-# Master Thesis — Retrieval-Augmented Generation for Research Summary Evaluation
+# Master Thesis — Retrieval-Augmented Generation for Summarizing and Evaluating Scientific Research Articles
 
-This repository contains the full pipeline and experiments for my master's thesis at OsloMet (Spring 2025), focused on evaluating and improving research summaries using Retrieval-Augmented Generation (RAG) and hallucination detection techniques.
+This repository contains the full pipeline and experiments for my master's thesis at OsloMet (Spring 2025). The thesis focus on using Retrieval-Augmented Generation (RAG) for summarizing and evaluating scientific research articles, including hallucination detection techniques.
 
 ## Project Overview
 
